@@ -2,8 +2,8 @@
  
 A basic CLI app created using node.js
 
-packages used:
+Packages used:
 
-1.readLineSync
-2.CHALK
+    1.readLineSync
+    2.CHALK
 
