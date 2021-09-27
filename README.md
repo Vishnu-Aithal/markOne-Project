@@ -2,20 +2,24 @@
  
 A basic CLI app created using node.js
 
-Packages used:
+---
+> ### Packages used:
 
-    1.readLineSync
-    2.CHALK
+1.  readLineSync
+2.  CHALK
+---
+> ### Features:
 
-Features:
+-    userName input
+-    score calculation
+-    check if high score
+-    uses keyInSelect of readlineSync
 
-     userName input
-     score calculation
-     check if high score
-     uses keyInSelect of readlineSync
+---
+> ### How to play:
 
-How to play:
+1.  go to repl live link.
+2.  enter username when prompted.
+3.  choose an answer for each question 
 
-    1. go to repl live link.
-    2. enter username when prompted.
-    3. choose an answer for each question 
+---
